@@ -8,7 +8,7 @@ import br.com.alura.java2.sistema.AtualizadorDeContas;
 public class TestaAtualizadorDeContas {
 
 	public static void main(String[] args) {
-		Conta c = new Conta();
+		Conta c = new ContaCorrente();
         Conta cc = new ContaCorrente();
         Conta cp = new ContaPoupanca();
 
